@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goetian (chris will do just fine) 
 - 👀 I’m interested to learn new stuff. 
 - 🌱 Hamburg, Germany. 
-- 🌱 I’m currently learning Swift, JavaFX
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everthing
 - 📫 How to reach me, just text me here. I will check by 
 - I speak German and English
